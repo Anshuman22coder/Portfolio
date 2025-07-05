@@ -1,8 +1,4 @@
-Ah — got it! You want the README to include **step-by-step installation commands** for each dependency (not just a JSON dump).
 
-Here’s your updated `README.md` with **actual `npm install` commands** for each package.
-
----
 
 ````markdown
 # 🚀 React 3D Project with GSAP, TailwindCSS & React-Three
@@ -114,7 +110,7 @@ Feel free to fork and submit pull requests or issues!
 ## 📬 Contact
 
 For feedback or collaboration:
-📧 \[[itisanshu@gmail.com.com](mailto:your-email@example.com)]
+📧 \[[itisanshu@gmail.com](mailto:your-email@example.com)]
 
 ---
 
